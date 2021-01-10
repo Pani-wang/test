@@ -1,7 +1,9 @@
 public class HelloWorld{
 	public static void main(String[] args){
 		private int a = 2;
-		private String TaiwanStyle;
+		private String Style;
+		private String Cartoon;
+
 			System.out.println("Hello World!");
 	}
 }
